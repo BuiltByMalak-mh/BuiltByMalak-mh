@@ -1,16 +1,22 @@
-## Hi there 👋
+# hi! I'm Malak!
 
-<!--
-**BuiltByMalak-mh/BuiltByMalak-mh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-end dev x Data Analytics
 
-Here are some ideas to get you started:
+*Ready to create projects and expand my knowledge throughtout the years*
+ 
+## Skills
+**Languages**
+-Python
+-HTML
+-CSS
+-c#
+-JavaScript
+-SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Databases**
+-PostgreSQL
+
+**Currently Learning**
+-Advanced SQL
+-Data Anlysis
+
