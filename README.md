@@ -18,5 +18,5 @@
 
 **Currently Learning**
 -Advanced SQL
--Data Anlysis
+-Data Analysis
 
